@@ -24,7 +24,7 @@ function sayhello() {
 */
 
 
-
+/*
 var nama = 'sandhika galih';
 var username = '@sandhikagalih';
 
@@ -33,7 +33,7 @@ function cetakurl(username) {
     return instagramurl + username;
 }
 console.log(cetakurl(username));
-
+*/
 
 
 /*
@@ -53,7 +53,7 @@ function a() {
 a();
 */
 
-/*
+
 function satu() {
     var nama = 'sandhika';
     console.log(nama);
@@ -69,10 +69,10 @@ var nama = 'erik';
 
 satu();
 
-dua('doddy');
+dua('yanto');
 
 console.log(nama);
-*/
+
 
 /*
 var s = "This., -/ is #! an $ % ^ & * example ;: {} of a = -_ string with `~)() punctuation";
